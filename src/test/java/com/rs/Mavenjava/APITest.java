@@ -8,6 +8,8 @@ public class APITest
 	public void postJira()
 	{
 		System.out.println("postJira");
+		System.out.println("postJira2");
+		System.out.println("postJira3");
 	}
 	
 	@Test
