@@ -22,5 +22,11 @@ public class SeleniumTest
 	{
 		System.out.println("Locators");	
 	}
+	
+	@Test
+	public void XpathUi()
+	{
+		System.out.println("Locators");	
+	}
 
 }
