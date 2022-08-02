@@ -21,5 +21,11 @@ public class APITest
 	{
 		System.out.println("deleteTwitter");	
 	}
+	
+	@Test
+	public void updateTwitter()
+	{
+		System.out.println("UpdateTwitter");	
+	}
 
 }
